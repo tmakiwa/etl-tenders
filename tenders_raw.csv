@@ -1,0 +1,11 @@
+tender_id,title,issuer,category,province,published_date,closing_date,budget,contact_email,url
+T-1001,IT Support Services,Dept of Health,it services,Gauteng,2025-09-10,2025/09/25,"R 1,200,000",tenders@health.gov.za,https://example.gov.za/t-1001
+T-1002,Road Maintenance,City of Cape Town,Construction,Western Cape,10-09-2025,,R850000,roads@capetown.gov.za,https://example.gov.za/t-1002
+T-1003,Security Services,University of Pretoria,Security,Gauteng,2025-09-08,2025-09-22,R 500 000,security@up.ac.za,https://example.gov.za/t-1003
+T-1003,Security Services,University of Pretoria,Security,Gauteng,2025-09-08,2025-09-22,R 500 000,security@up.ac.za,https://example.gov.za/t-1003
+T-1004,Cleaning Services,Botswana Railways,Facilities,North West,2025/09/07,2025-09-21,"P 300,000",cleaning[at]br.co.bw,https://example.gov.bw/t-1004
+T-1005,Supply of Laptops,Dept of Education,IT Services,Limpopo,2025-09-05,21-09-2025,R1 100 000,ict@education.gov.za,https://example.gov.za/t-1005
+T-1005,Supply of Laptops,Dept of Education,IT Services,Limpopo,2025-09-09,2025-09-24,"R1,150,000",ict@education.gov.za,https://example.gov.za/t-1005-v2
+T-1006,Catering Services,,Hospitality,Free State,2025-09-11,2025-09-20,"R 120,000",catering@freestate.gov.za,https://example.gov.za/t-1006
+T-1007,Network Cabling,Dept of Transport,IT,KwaZulu-Natal,2025-09-12,,ZAR 750k,network@transport.gov.za,https://example.gov.za/t-1007
+T-1008,Office Furniture,SARS,Supply,Gauteng,2025-13-01,2025-15-40,R 400000,procurement@sars.gov.za,https://example.gov.za/t-1008

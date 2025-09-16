@@ -1,0 +1,7 @@
+tender_id,title,issuer,category,province,published_date,closing_date,budget,contact_email,url,budget_amount,days_to_close
+T-1001,IT Support Services,Dept of Health,It Services,Gauteng,2025-09-10,2025-09-25,"R 1,200,000",tenders@health.gov.za,https://example.gov.za/t-1001,1200000.0,9
+T-1002,Road Maintenance,City of Cape Town,Construction,Western Cape,2025-09-10,2025-09-24,R850000,roads@capetown.gov.za,https://example.gov.za/t-1002,850000.0,8
+T-1003,Security Services,University of Pretoria,Security,Gauteng,2025-09-08,2025-09-22,R 500 000,security@up.ac.za,https://example.gov.za/t-1003,500000.0,6
+T-1005,Supply of Laptops,Dept of Education,It Services,Limpopo,2025-09-09,2025-09-24,"R1,150,000",ict@education.gov.za,https://example.gov.za/t-1005-v2,1150000.0,8
+T-1006,Catering Services,nan,Hospitality,Free State,2025-09-11,2025-09-20,"R 120,000",catering@freestate.gov.za,https://example.gov.za/t-1006,120000.0,4
+T-1007,Network Cabling,Dept of Transport,It,Kwazulu-Natal,2025-09-12,2025-09-26,ZAR 750k,network@transport.gov.za,https://example.gov.za/t-1007,750000.0,10
